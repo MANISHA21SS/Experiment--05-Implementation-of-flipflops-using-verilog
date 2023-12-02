@@ -109,32 +109,38 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: MANISHA SELVAKUMARI S S
+RegisterNumber: 23012275  
 */
-
-
-
-
-
+Code:
+SR Flipflop:
+![srflipflop code](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/21b3c545-3310-4258-a5cf-61a0030cbdd1)
+D Flipflop:
+![dflipflop code](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/38341990-3b94-4fb0-9646-cd217972869c)
+JK Flipflop:
+![jkflipflop code](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/a4626673-317d-4e65-9647-8e463bb3725a)
+T Flipflop:
+![tflipflop code](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/806868cc-2f63-4926-a57e-e9071650c20f)
 
 ### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
+SR Flipflop:
+![srflipflop rtl](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/d30ec51c-c888-4b73-84bf-aa36b2985b92)
+D Flipflop:
+![dflipflop rtl](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/6cfd4037-3018-4170-919a-e6c6e050cb25)
+JK Flipflop:
+![jkflipflop rtl](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/bd3e5cbe-a8f8-4601-9420-acfb133b8473)
+T Flipflop:
+![tflipflop rtl](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/ef9891df-1921-4254-8624-bf6e4c8f747a)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
-
-
-
-
-
+SR Flipflop:
+![srflipflop timing diag (2)](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/fc486ccf-3627-49b5-8b25-cf38fec86547)
+D Flipflop:
+![dflipflop timing diag](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/a9264ddd-4285-4e2f-ae26-08a822c89e1e)
+JK Flipflop:
+![jkflipflop timing diag](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/61f0e0fc-d618-4d8b-8553-48ed811bf2ec)
+T Flipflop:
+![tflipflop timing diag](https://github.com/MANISHA21SS/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474298/66e4fcf3-712a-42c1-9ce8-33899a926e7c)
 ### RESULTS 
+Implementation-of-flipflops-using-verilog successfully completed.
